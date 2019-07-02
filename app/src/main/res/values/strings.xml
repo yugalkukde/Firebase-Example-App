@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Storage</string>
+    <string name="choose_file">Choose file</string>
+    <string name="enter_file_name">Enter File Name</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="clear">Clear</string>
+</resources>
